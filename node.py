@@ -1,4 +1,3 @@
-
 class Node:
     def __init__(self,value,parent=None,left_child=None, right_child=None):
         """

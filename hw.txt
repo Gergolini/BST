@@ -1,0 +1,2 @@
+1. write fib_iter and fib_recur
+2. do the post-order and pre-order traverse in the tree and test the result (print the list)
